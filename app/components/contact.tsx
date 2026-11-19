@@ -154,7 +154,7 @@ export default function ContactSection() {
                 type="submit"
                 className="w-full rounded-md bg-[#AA82DF] px-4 py-1.5 text-left text-xs font-medium text-[#1E1624] transition-colors duration-200 hover:bg-[#976CD4] hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#5B356B]"
               >
-                {submitted ? "Message Sent!" : "type message — Send"}
+                {submitted ? "Message Sent!" : " Send"}
               </button>
             </div>
           </div>
