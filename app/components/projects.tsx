@@ -27,11 +27,11 @@ const projects: ProjectItem[] = [
   },
   {
     id: 3,
-    title: "3. ZAMBAZI VISTA",
+    title: "3. ZAMBEZI VISTA",
     description:
       "A marketing strategy project focused on using influencer partnerships to promote Zambazi Vista, build brand awareness and connect with the target audience through engaging digital content.",
     imageSrc: "/zest.jpeg",
-    imageAlt: "Zambazi Vista influencer marketing strategy presentation",
+    imageAlt: "Zambezi Vista influencer marketing strategy presentation",
   },
 ];
 
